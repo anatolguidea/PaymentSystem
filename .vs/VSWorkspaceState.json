@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Frontend\\src",
+    "\\PaymentSystem\\Controllers",
+    "\\PaymentSystem\\Models",
+    "\\PaymentSystem\\Processors",
+    "\\PaymentSystem\\Services",
+    "\\PaymentSystem\\Strategies",
+    "\\PaymentSystem\\Validators.cs"
+  ],
+  "PreviewInSolutionExplorer": false
+}
